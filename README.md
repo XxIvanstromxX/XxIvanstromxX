@@ -183,7 +183,7 @@ graph LR
 
 ### *"Cada línea de código es una oportunidad de hacer algo extraordinario"*
 
-![Profile Views](https://komarev.com/ghpvc/?username=TU_USERNAME&color=F85D7F&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=XxIvanstromxX&color=F85D7F&style=for-the-badge)
 
 </div>
 
