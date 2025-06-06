@@ -191,5 +191,5 @@ graph LR
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=¡Gracias%20por%20visitar!&fontSize=16&fontAlignY=65&desc=Siempre%20abierto%20a%20nuevas%20oportunidades&descAlignY=51&descAlign=62"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=¡Gracias%20por%20visitar!&fontSize=16&fontAlignY=65&desc=Siempre%20abierto%20a%20nuevas%20oportunidades&descAlignY=51&descAlign=62"/>
 </div>
