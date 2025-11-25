@@ -28,7 +28,7 @@ const ivan = {
             python: ["FastAPI", "Flask"],
             js, ts: ["Node.js", "Express"]
         },
-        databases: ["SQL", "MongoDB", PostgreSQL],
+        databases: ["SQL", "MongoDB", "PostgreSQL"],
         misc: ["Firebase", "Socket.IO", "Docker"]
     },
     currentFocus: "Automatización y modelos de ML/DL 🤖",
