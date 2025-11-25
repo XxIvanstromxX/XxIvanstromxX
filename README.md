@@ -21,13 +21,14 @@ const ivan = {
     technologies: {
         frontEnd: {
             js: ["React"],
-            css: ["Tailwind CSS"]
+            ts: ["React"],
+            css: ["Tailwind CSS"],
         },
         backEnd: {
             python: ["FastAPI", "Flask"],
-            js: ["Node.js", "Express"]
+            js, ts: ["Node.js", "Express"]
         },
-        databases: ["SQL", "MongoDB"],
+        databases: ["SQL", "MongoDB", PostgreSQL],
         misc: ["Firebase", "Socket.IO", "Docker"]
     },
     currentFocus: "Automatización y modelos de ML/DL 🤖",
