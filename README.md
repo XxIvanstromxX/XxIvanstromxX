@@ -16,7 +16,7 @@
 ```javascript
 const ivan = {
     pronouns: "él/him",
-    code: ["Python", "JavaScript", "C", "C++", "HTML", "CSS"],
+    code: ["Python", "JavaScript", "C", "C++", "HTML", "CSS", "TypeScript"],
     askMeAbout: ["desarrollo web", "machine learning", "telecomunicaciones", "enseñanza"],
     technologies: {
         frontEnd: {
@@ -26,7 +26,8 @@ const ivan = {
         },
         backEnd: {
             python: ["FastAPI", "Flask"],
-            js, ts: ["Node.js", "Express"]
+            js: ["Node.js", "Express"],
+            ts: ["Node.js", "Express"]
         },
         databases: ["SQL", "MongoDB", "PostgreSQL"],
         misc: ["Firebase", "Socket.IO", "Docker"]
