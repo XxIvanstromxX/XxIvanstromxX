@@ -20,8 +20,8 @@ const ivan = {
     askMeAbout: ["desarrollo web", "machine learning", "telecomunicaciones", "enseñanza"],
     technologies: {
         frontEnd: {
-            js: ["React"],
-            ts: ["React"],
+            js: ["React", "React-Native"],
+            ts: ["React", "React-Native"],
             css: ["Tailwind CSS"],
         },
         backEnd: {
