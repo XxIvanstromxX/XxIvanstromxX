@@ -118,7 +118,7 @@ Curso completo de React desde los fundamentos hasta proyectos avanzados para CCO
 
 ### 🤖 **[WhatsBot - Chatbot con IA](https://github.com/XxIvanstromxX/whatsbot)**
 Curso para crear chatbots inteligentes integrando IA con WhatsApp
-`JavaScript` `AI` `WhatsApp` `1⭐ 1🍴`
+`JavaScript` `AI` `WhatsApp` ⭐🍴
 
 ### 🔬 **[Curso Math para ML](https://github.com/XxIvanstromxX/Curso-Math-ML)**
 Curso completo de Matemáticas para Machine Learning con Jupyter Notebooks
@@ -130,7 +130,7 @@ Ejemplo profesional de API REST CRUD usando TypeScript y Express
 
 ### ⚡ **[Leyes de Maxwell](https://github.com/XxIvanstromxX/laws-maxwell)**
 Página interactiva que explica las fundamentales leyes de Maxwell de forma visual
-`JavaScript` `Physics` `Education` • [🌐 Ver Demo](https://laws-maxwell.vercel.app)
+`JavaScript` `Physics` `Education` • [🌐 Demo](https://laws-maxwell.vercel.app)
 
 ### 📝 **[Task Tracker CLI](https://github.com/XxIvanstromxX/Task-Tracker-CLI)**
 Herramienta de línea de comandos construida con Node.js para gestión de tareas
