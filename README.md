@@ -112,14 +112,37 @@ Siempre explorando nuevas tecnologías y creando proyectos innovadores
 
 <div align="center">
 
-### 🎓 **Cursos de Desarrollo Web**
-Cursos completos de desarrollo front-end y back-end para formar nuevos desarrolladores
+### 🎓 **[Curso React Desde Cero](https://github.com/XxIvanstromxX/Curso-React-Desde-Cero)**
+Curso completo de React desde los fundamentos hasta proyectos avanzados para CCOL
+`JavaScript` `React` `Educación`
 
-### ⚡ **Leyes de Maxwell - Web Educativa**
+### 🤖 **[WhatsBot - Chatbot con IA](https://github.com/XxIvanstromxX/whatsbot)**
+Curso para crear chatbots inteligentes integrando IA con WhatsApp
+`JavaScript` `AI` `WhatsApp` `1⭐ 1🍴`
+
+### 🔬 **[Curso Math para ML](https://github.com/XxIvanstromxX/Curso-Math-ML)**
+Curso completo de Matemáticas para Machine Learning con Jupyter Notebooks
+`Python` `Mathematics` `ML` `Jupyter`
+
+### 💻 **[API CRUD TypeScript](https://github.com/XxIvanstromxX/API-CRUD-TypeScript)**
+Ejemplo profesional de API REST CRUD usando TypeScript y Express
+`TypeScript` `Express` `API` `Backend`
+
+### ⚡ **[Leyes de Maxwell](https://github.com/XxIvanstromxX/laws-maxwell)**
 Página interactiva que explica las fundamentales leyes de Maxwell de forma visual
+`JavaScript` `Physics` `Education` • [🌐 Ver Demo](https://laws-maxwell.vercel.app)
 
-### 📝 **Task Tracker CLI**
+### 📝 **[Task Tracker CLI](https://github.com/XxIvanstromxX/Task-Tracker-CLI)**
 Herramienta de línea de comandos construida con Node.js para gestión de tareas
+`Node.js` `CLI` `JavaScript`
+
+### 🛍️ **[Sportiva - E-commerce con IA](https://github.com/XxIvanstromxX/Sportiva)**
+Tienda online de ropa deportiva con chatbot inteligente para recomendaciones
+`JavaScript` `E-commerce` `Chatbot`
+
+### 📚 **[Curso Front-End Completo](https://github.com/XxIvanstromxX/Curso-Front-End)**
+Proyectos y código del curso de Desarrollo Web Front-End
+`HTML` `CSS` `JavaScript` • [🌐 Portfolio](https://curso-front-end-portfolio.vercel.app/)
 
 </div>
 
