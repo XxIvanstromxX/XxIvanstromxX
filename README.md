@@ -95,10 +95,6 @@ Siempre explorando nuevas tecnologías y creando proyectos innovadores
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  
-![Iván's GitHub stats](https://github-readme-stats.vercel.app/api?username=XxIvanstromxX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XxIvanstromxX&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFF)
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=XxIvanstromxX&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=F85D7F&fire=F8D866&currStreakNum=FFF&sideNums=FFF&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=FFF" alt="GitHub Streak" /></a>
 
