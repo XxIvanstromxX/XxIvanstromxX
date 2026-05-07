@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=150&lines=🚀+Construyendo+el+futuro+con+código;🎓+Enseñando+•+Aprendiendo+•+Creando;🔥+Especialista+en+Web+Development+%26+ML" alt="Typing SVG" />
 </div>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="200">
 </div>
 <div align="center">
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/SP-XD" alt="CoDiNg RocKs" width="60%"/><br>
@@ -16,21 +16,21 @@
 ```javascript
 const ivan = {
     pronouns: "él/him",
-    code: ["Python", "JavaScript", "C", "C++", "HTML", "CSS", "TypeScript"],
+    code: ["Python", "JavaScript", "C", "C++", "HTML", "CSS", "TypeScript", "Rust", "Swift"],
     askMeAbout: ["desarrollo web", "machine learning", "telecomunicaciones", "enseñanza"],
     technologies: {
         frontEnd: {
-            js: ["React", "React-Native"],
-            ts: ["React", "React-Native"],
-            css: ["Tailwind CSS"],
+            js: ["React", "React-Native", "Next.js", "Astro", "Three.js", "Tanstack Start"],
+            ts: ["React", "React-Native", "Next.js", "Astro", "Three.js", "Tanstack Start"],
+            css: ["Tailwind CSS", "SCSS"],
         },
         backEnd: {
-            python: ["FastAPI", "Flask"],
-            js: ["Node.js", "Express"],
-            ts: ["Node.js", "Express"]
+            python: ["FastAPI", "Flask", "Django"],
+            js: ["Node.js", "Express", "NestJS"],
+            ts: ["Node.js", "Express", "NestJS"]
         },
-        databases: ["SQL", "MongoDB", "PostgreSQL"],
-        misc: ["Firebase", "Socket.IO", "Docker"]
+        databases: ["SQL", "MongoDB", "PostgreSQL", "MariaDB"],
+        misc: ["Firebase", "Socket.IO", "Docker", "Kubernetes", "Kafka", "MQRabbit"]
     },
     currentFocus: "Automatización y modelos de ML/DL 🤖",
     funFact: "¡Enseño desarrollo web Y matemáticas para ML!"
@@ -43,6 +43,9 @@ const ivan = {
 
 <div align="center">
 
+### ⚙️ **Staff Engineer**
+Lidero la arquitectura técnica y la toma de decisiones estratégicas para escalar productos de alto impacto.
+
 ### 💻 **Desarrollo Full Stack**
 Creo aplicaciones web completas desde la interfaz hasta el servidor
 
@@ -51,6 +54,7 @@ Imparto cursos de desarrollo front-end, back-end y matemáticas para ML
 
 ### 🔬 **Investigación & Aprendizaje**
 Siempre explorando nuevas tecnologías y creando proyectos innovadores
+
 
 </div>
 
@@ -64,6 +68,8 @@ Siempre explorando nuevas tecnologías y creando proyectos innovadores
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=#3279c8)
+![Rust](https://img.shields.io/badge/rust-%23323330.svg?style=for-the-badge&logo=rust&logoColor=%23dea584)
+![Swift](https://img.shields.io/badge/swift-%23323330.svg?style=for-the-badge&logo=swift&logoColor=%23F05138)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -76,12 +82,15 @@ Siempre explorando nuevas tecnologías y creando proyectos innovadores
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React-Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-%2320232a.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TanStack Start](https://img.shields.io/badge/tanstack_start-%2320232a.svg?style=for-the-badge&logo=reactquery&logoColor=%23FF4154)
 
 ### 🗄️ Bases de Datos
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 ### 🧠 Actualmente Aprendiendo
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
