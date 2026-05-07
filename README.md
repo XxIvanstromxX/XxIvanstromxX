@@ -117,7 +117,7 @@ Siempre explorando nuevas tecnologías y creando proyectos innovadores
 <div align="center">
 
 ### 🩺 **Aura**
-SAMD + SaaS orientado a salud digital, diseñado para monitoreo clínico con telemetría en tiempo real, alertas tempranas y seguimiento médico-paciente.
+SaMD + SaaS orientado a salud digital, diseñado para monitoreo clínico con telemetría en tiempo real, alertas tempranas y seguimiento médico-paciente.
 `React` `React Native` `Python` `Rust` `PostgreSQL` `AI`
 
 ### 🛠️ **Serviya**
@@ -125,7 +125,7 @@ Plataforma de oportunidades para oficios y trabajos prácticos, pensada para con
 `React` `TanStack Router` `Express.js` `TypeScript` `PostgreSQL`
 
 ### 📦 **Minibodegas**
-SaaS B2B para la operación de bodegas, enfocado en gestión de clientes, espacios, operadores y contratos con una experiencia clara y escalable.
+SaaS B2B para la gestión de bodegas, enfocado en clientes, espacios, operadores y contratos con una experiencia clara y escalable.
 `React` `TanStack Router` `Express.js` `TypeScript` `PostgreSQL`
 
 ### 🏛️ **SIGI**
