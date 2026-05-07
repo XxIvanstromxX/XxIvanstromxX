@@ -116,37 +116,25 @@ Siempre explorando nuevas tecnologías y creando proyectos innovadores
 
 <div align="center">
 
-### 🎓 **[Curso React Desde Cero](https://github.com/XxIvanstromxX/Curso-React-Desde-Cero)**
-Curso completo de React desde los fundamentos hasta proyectos avanzados para CCOL
-`JavaScript` `React` `Educación`
+### 🩺 **Aura**
+SAMD + SaaS orientado a salud digital, diseñado para monitoreo clínico con telemetría en tiempo real, alertas tempranas y seguimiento médico-paciente.
+`React` `React Native` `Python` `Rust` `PostgreSQL` `AI`
 
-### 🤖 **[WhatsBot - Chatbot con IA](https://github.com/XxIvanstromxX/whatsbot)**
-Curso para crear chatbots inteligentes integrando IA con WhatsApp
-`JavaScript` `AI` `WhatsApp` ⭐🍴
+### 🛠️ **Serviya**
+Plataforma de oportunidades para oficios y trabajos prácticos, pensada para conectar talento independiente y estudiantes con oportunidades reales de ingreso.
+`React` `TanStack Router` `Express.js` `TypeScript` `PostgreSQL`
 
-### 🔬 **[Curso Math para ML](https://github.com/XxIvanstromxX/Curso-Math-ML)**
-Curso completo de Matemáticas para Machine Learning con Jupyter Notebooks
-`Python` `Mathematics` `ML` `Jupyter`
+### 📦 **Minibodegas**
+SaaS B2B para la operación de bodegas, enfocado en gestión de clientes, espacios, operadores y contratos con una experiencia clara y escalable.
+`React` `TanStack Router` `Express.js` `TypeScript` `PostgreSQL`
 
-### 💻 **[API CRUD TypeScript](https://github.com/XxIvanstromxX/API-CRUD-TypeScript)**
-Ejemplo profesional de API REST CRUD usando TypeScript y Express
-`TypeScript` `Express` `API` `Backend`
+### 🏛️ **SIGI**
+Proyecto de migración para un entorno institucional de alta responsabilidad, enfocado en continuidad operativa, modernización tecnológica y confiabilidad en procesos críticos.
+`React` `React Router v7` `Express.js` `TypeScript` `PostgreSQL`
 
-### ⚡ **[Leyes de Maxwell](https://github.com/XxIvanstromxX/laws-maxwell)**
-Página interactiva que explica las fundamentales leyes de Maxwell de forma visual
-`JavaScript` `Physics` `Education` • [🌐 Demo](https://laws-maxwell.vercel.app)
-
-### 📝 **[Task Tracker CLI](https://github.com/XxIvanstromxX/Task-Tracker-CLI)**
-Herramienta de línea de comandos construida con Node.js para gestión de tareas
-`Node.js` `CLI` `JavaScript`
-
-### 🛍️ **[Sportiva - E-commerce con IA](https://github.com/XxIvanstromxX/Sportiva)**
-Tienda online de ropa deportiva con chatbot inteligente para recomendaciones
-`JavaScript` `E-commerce` `Chatbot`
-
-### 📚 **[Curso Front-End Completo](https://github.com/XxIvanstromxX/Curso-Front-End)**
-Proyectos y código del curso de Desarrollo Web Front-End
-`HTML` `CSS` `JavaScript` • [🌐 Portfolio](https://curso-front-end-portfolio.vercel.app/)
+### ⚡ **[Curso Next + TypeScript](https://github.com/XxIvanstromxX/Curso-Next-TypeScript)**
+Curso avanzado centrado en llevar aplicaciones de Next.js a un nivel más profesional con TypeScript, mejor estructura y una base más sólida para escalar.
+`Next.js` `React` `TypeScript` `Arquitectura`
 
 </div>
 
