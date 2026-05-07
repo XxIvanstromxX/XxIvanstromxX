@@ -117,7 +117,7 @@ Siempre explorando nuevas tecnologías y creando proyectos innovadores
 <div align="center">
 
 ### 🩺 **Aura**
-SaMD + SaaS orientado a salud digital, diseñado para monitoreo clínico con telemetría en tiempo real, alertas tempranas y seguimiento médico-paciente.
+SaMD + SaaS orientado a salud digital, diseñado para monitoreo clínico con telemetría en tiempo real, alertas tempranas y seguimiento entre médico y paciente.
 `React` `React Native` `Python` `Rust` `PostgreSQL` `AI`
 
 ### 🛠️ **Serviya**
