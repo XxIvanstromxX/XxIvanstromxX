@@ -1,15 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Iván%20Martínez&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Desarrollador%20Full%20Stack%20•%20Ingeniero%20•%20Creador&descAlignY=55&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Iván%20Martínez&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Staff%20Software%20Engineer%20•%20Ingeniero%20•%20Creador&descAlignY=55&descSize=18"/>
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=150&lines=🚀+Construyendo+el+futuro+con+código;🎓+Enseñando+•+Aprendiendo+•+Creando;🔥+Especialista+en+Web+Development+%26+ML" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=150&lines=🛠️+Staff+Software+Engineer+|+Fullstack;🎓+Enseñando+•+Aprendiendo+•+Creando;🧠+Integrando+IA+y+Arquitecturas+de+Alto+Riesgo" alt="Typing SVG" />
 </div>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="200">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
 </div>
 <div align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/SP-XD" alt="CoDiNg RocKs" width="60%"/><br>
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/SP-XD" alt="CoDiNg RocKs" width="40%"/><br>
 </div>
+
 
 ## 🚀 Sobre Mí
 
