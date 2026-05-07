@@ -117,7 +117,7 @@ Siempre explorando nuevas tecnologías y creando proyectos innovadores
 <div align="center">
 
 ### 🩺 **Aura**
-SaMD + SaaS orientado a salud digital, diseñado para monitoreo clínico con telemetría en tiempo real, alertas tempranas y seguimiento entre médico y paciente.
+Software as a Medical Device (SaMD) + SaaS orientado a salud digital, diseñado para monitoreo clínico con telemetría en tiempo real, alertas tempranas y seguimiento entre médico y paciente.
 `React` `React Native` `Python` `Rust` `PostgreSQL` `AI`
 
 ### 🛠️ **Serviya**
@@ -129,7 +129,7 @@ SaaS B2B para la gestión de bodegas, enfocado en clientes, espacios, operadores
 `React` `TanStack Router` `Express.js` `TypeScript` `PostgreSQL`
 
 ### 🏛️ **SIGI**
-Proyecto de migración para un entorno institucional de alta responsabilidad, enfocado en continuidad operativa, modernización tecnológica y confiabilidad en procesos críticos.
+Proyecto de migración para un entorno institucional de alta responsabilidad, enfocado en modernizar flujos críticos de nómina hacia una plataforma más mantenible, estable y confiable.
 `React` `React Router v7` `Express.js` `TypeScript` `PostgreSQL`
 
 ### ⚡ **[Curso Next + TypeScript](https://github.com/XxIvanstromxX/Curso-Next-TypeScript)**
