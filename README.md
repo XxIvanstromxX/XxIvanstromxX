@@ -17,18 +17,20 @@
 ```javascript
 const ivan = {
     pronouns: "él/him",
-    code: ["Python", "JavaScript", "C", "C++", "HTML", "CSS", "TypeScript", "Rust", "Swift"],
+    code: ["Python", "JavaScript", "C", "C++", "HTML", "CSS", "TypeScript", "Rust", "Swift", "Java"],
     askMeAbout: ["desarrollo web", "machine learning", "telecomunicaciones", "enseñanza"],
     technologies: {
         frontEnd: {
             js: ["React", "React-Native", "Next.js", "Astro", "Three.js", "Tanstack Start"],
             ts: ["React", "React-Native", "Next.js", "Astro", "Three.js", "Tanstack Start"],
+            swift: ["SwiftUI", "UIKit"],
             css: ["Tailwind CSS", "SCSS"],
         },
         backEnd: {
             python: ["FastAPI", "Flask", "Django"],
             js: ["Node.js", "Express", "NestJS"],
-            ts: ["Node.js", "Express", "NestJS"]
+            ts: ["Node.js", "Express", "NestJS"],
+            Java: ["Spring/SpringBoot"],
         },
         databases: ["SQL", "MongoDB", "PostgreSQL", "MariaDB"],
         misc: ["Firebase", "Socket.IO", "Docker", "Kubernetes", "Kafka", "MQRabbit"]
